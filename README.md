@@ -1,2 +1,4 @@
 # hello-world
-I'm trying to decide if GitHub is what my group needs to work on our coding project.
+This is my first attempt at an edit.
+Once I save this edit, it becomes a commit.
+Commits include comments about why the commit was saved and how it works or what it is.
